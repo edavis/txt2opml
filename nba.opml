@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head/>
+  <body>
+    <outline text="NBA">
+      <outline text="Eastern">
+        <outline text="Atlantic">
+          <outline text="Boston Celtics"/>
+          <outline text="Brooklyn Nets"/>
+          <outline text="New York Knicks"/>
+          <outline text="Philadelphia 76ers"/>
+          <outline text="Toronto Raptors"/>
+        </outline>
+        <outline text="Central">
+          <outline text="Chicago Bulls"/>
+          <outline text="Cleveland Cavaliers"/>
+          <outline text="Detroit Pistons"/>
+          <outline text="Indiana Pacers"/>
+          <outline text="Milwaukee Bucks"/>
+        </outline>
+        <outline text="Southeast">
+          <outline text="Atlanta Hawks"/>
+          <outline text="Charlotte Bobcats"/>
+          <outline text="Miami Heat"/>
+          <outline text="Orlando Heat"/>
+          <outline text="Washington Wizards"/>
+        </outline>
+      </outline>
+      <outline text="Western">
+        <outline text="Northwest">
+          <outline text="Denver Nuggets"/>
+          <outline text="Minnesota Timberwolves"/>
+          <outline text="Oklahoma City Thunder"/>
+          <outline text="Portland Trail Blazers"/>
+          <outline text="Utah Jazz"/>
+        </outline>
+        <outline text="Pacific">
+          <outline text="Golden State Warriors"/>
+          <outline text="Los Angeles Clippers"/>
+          <outline text="Los Angeles Lakers"/>
+          <outline text="Phoenix Suns"/>
+          <outline text="Sacramento Kings"/>
+        </outline>
+        <outline text="Southwest">
+          <outline text="Dallas Mavericks"/>
+          <outline text="Houston Rockets"/>
+          <outline text="Memphis Grizzlies"/>
+          <outline text="New Orleans Pelicans"/>
+          <outline text="San Antonio Spurs"/>
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
+
