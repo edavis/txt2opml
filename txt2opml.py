@@ -102,10 +102,7 @@ def main():
 
             marker, text = match.groups()
 
-            if len(marker) == 1:
-                # If marker is a single char, its a summit node.
-                level = 0
-            elif ' ' in marker:
+            if ' ' in marker:
                 # If using 'sparse' indentation, count the number of
                 # double spaces as the level.
                 level = marker.count('  ')
